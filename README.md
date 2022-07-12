@@ -17,6 +17,7 @@ The website has a [list of community patches](https://tools.suckless.org/dmenu/p
 
 The following patches were applied:
 
+- [alpha](https://tools.suckless.org/dmenu/patches/alpha/)
 - [border](https://tools.suckless.org/dmenu/patches/border/)
 - [center](https://tools.suckless.org/dmenu/patches/center/)
 
